@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/idrish18/30days/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/idrish18/30days/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/idrish18/30days/tree/master/1552-build-an-array-with-stack-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/idrish18/30days/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
