@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/idrish18/30days/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/idrish18/30days/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/idrish18/30days/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
