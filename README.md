@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/idrish18/30days/tree/master/0147-insertion-sort-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/idrish18/30days/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
