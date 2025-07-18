@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/idrish18/30days/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/idrish18/30days/tree/master/0144-binary-tree-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
