@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/idrish18/30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idrish18/30days/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -59,13 +60,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/idrish18/30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idrish18/30days/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
