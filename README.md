@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/idrish18/30days/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/idrish18/30days/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/idrish18/30days/tree/master/0096-unique-binary-search-trees) |
 ## Tree
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/idrish18/30days/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
