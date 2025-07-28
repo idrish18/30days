@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/idrish18/30days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/idrish18/30days/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/idrish18/30days/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/idrish18/30days/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/idrish18/30days/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/idrish18/30days/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/idrish18/30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/idrish18/30days/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/idrish18/30days/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
