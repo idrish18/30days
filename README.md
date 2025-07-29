@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/idrish18/30days/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/idrish18/30days/tree/master/0096-unique-binary-search-trees) |
+| [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
