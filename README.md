@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/idrish18/30days/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
@@ -143,10 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/idrish18/30days/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/idrish18/30days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/idrish18/30days/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/idrish18/30days/tree/master/0143-reorder-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/idrish18/30days/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
