@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/idrish18/30days/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/idrish18/30days/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/idrish18/30days/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/idrish18/30days/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/idrish18/30days/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/idrish18/30days/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/idrish18/30days/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
